@@ -35,7 +35,6 @@
 <div align="center">
         <img src="https://skillicons.dev/icons?i=vscode,github,git" />
         <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" /><br>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/powerbi.svg" alt="Power BI" width="40" height="40" />
 
 </div>
 
