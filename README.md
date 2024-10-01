@@ -20,7 +20,7 @@
  </div>
  
 <div align="center"> 
-  <p>Email: tomasfeiertag@gmail.com</p>
+  <p>📩 Email: tomasfeiertag@gmail.com</p>
   <a href="https://linkedin.com/in/tomas-feiertag/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
