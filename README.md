@@ -11,7 +11,7 @@
  
  🔭 I’m currently learning and building projects to deepen my expertise in data analysis, ETL, and data engineering.
  
- 🌱 I’m currently learning **Azure, Hadoop**
+ 🌱 I’m currently learning **Docker, Airflow**
 
 💬 Ask me about **Python, SQL, PowerBI**
 
