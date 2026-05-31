@@ -182,7 +182,7 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
-<a href="https://github.com/TomasFeiertag">→ View repo</a>
+<a href="https://github.com/TomasFeiertag/Proyecto-MLOps-1">→ View repo</a>
 </td>
 </tr>
 </table>
