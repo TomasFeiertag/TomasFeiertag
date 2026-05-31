@@ -57,13 +57,13 @@
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
 
 **ML / AI**  
-<img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 
 **Big Data & Cloud**  
-<img src="https://img.shields.io/badge/Azure Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
 **Visualization & Tools**  
@@ -79,10 +79,12 @@
 <h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
-
-[![Spotify Visual Analytics](https://github-readme-stats.vercel.app/api/pin/?username=TomasFeiertag&repo=Spotify-Visual-Analytics&theme=react&border_radius=10)](https://github.com/TomasFeiertag/Spotify-Visual-Analytics)
-[![Google Yelp Analysis](https://github-readme-stats.vercel.app/api/pin/?username=TomasFeiertag&repo=Google-Yelps&theme=react&border_radius=10)](https://github.com/TomasFeiertag/Google-Yelps)
-
+<a href="https://github.com/TomasFeiertag/Spotify-Visual-Analytics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomasFeiertag&repo=Spotify-Visual-Analytics&theme=dark&border_radius=10" />
+</a>
+<a href="https://github.com/TomasFeiertag/Google-Yelps">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomasFeiertag&repo=Google-Yelps&theme=dark&border_radius=10" />
+</a>
 </div>
 
 <hr/>
@@ -90,7 +92,11 @@
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
 <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.svg" />
+</picture>
 <br/><br/>
 </div>
 
@@ -99,10 +105,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TomasFeiertag&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=TomasFeiertag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TomasFeiertag&theme=dark&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=TomasFeiertag&show_icons=true&theme=dark&rank_icon=github&border_radius=10&include_all_commits=true" alt="readme stats" />
 <br/>
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFeiertag&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFeiertag&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="top langs" />
 </div>
 
 <br/><br/>
