@@ -86,18 +86,42 @@ class TomasFeiertag:
 <!-- WAVE SEPARATOR -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
-<h2 align="center">🚀 What I Do</h2>
+<h2 align="center">🗓️ Experience</h2>
 
 <div align="center">
-
-| Area | Details |
-|---|---|
-| **NLP in Production** | Intent classification pipeline processing +300K msgs/week @ Movistar |
-| **LLM Engineering** | Prompt tuning, hybrid architectures (rules + LLMs), RAG |
-| **Big Data** | ETL pipelines with PySpark on Azure Databricks |
-| **ML / Anomaly Detection** | Cybersecurity models for network traffic analysis @ RAN Security |
-| **Data Visualization** | Interactive Power BI dashboards for business intelligence |
-
+<table>
+<tr>
+<td width="120" align="center"><b>Mar 2025<br/>Present</b></td>
+<td>
+<b>🟦 Data Scientist (NLP) — Movistar · Telefónica Hispam</b><br/>
+Hybrid NLP architecture (Regex/JSON + LLMs) processing <b>+300K msgs/week</b> in production. ETL pipelines in PySpark/Databricks. Prompt Engineering & LLM optimization. Power BI dashboards for business KPIs.<br/>
+<sub>Python · PySpark · Azure Databricks · LLMs · Prompt Engineering · Power BI</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>Dec 2024<br/>Mar 2025</b></td>
+<td>
+<b>🟥 Data & AI Analyst — RAN Security</b><br/>
+ML models for anomaly detection in real-time network traffic. Adapted academic AI research papers into production environments. Designed SQL database for network data storage & simulated traffic testing.<br/>
+<sub>Python · SQL · Pandas · Scikit-learn · Matplotlib</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>Jul 2024<br/>Sep 2024</b></td>
+<td>
+<b>🟩 Data Engineer & Analyst — Henry Bootcamp</b><br/>
+3 end-to-end projects: Google/Yelp market analysis (BigQuery + NLP), Argentina internet access dashboard (ENACOM data + Power BI), and a movie recommendation API deployed with FastAPI.<br/>
+<sub>Python · BigQuery · FastAPI · Scikit-learn · Power BI · Streamlit</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>Feb 2024<br/>Mar 2024</b></td>
+<td>
+<b>🟦 Summer Trainee — Movistar · Telefónica</b><br/>
+Corporate program: organizational culture, agility, DEI, and digital employability.<br/>
+</td>
+</tr>
+</table>
 </div>
 
 <!-- WAVE SEPARATOR -->
@@ -130,9 +154,9 @@ class TomasFeiertag:
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3>🎵 Spotify Visual Analytics</h3>
-<p>End-to-end data pipeline and interactive dashboard analyzing Spotify listening trends. ETL, data wrangling, and Power BI visualization.</p>
+<p>End-to-end pipeline analyzing Spotify listening trends. ETL, data wrangling, and interactive Power BI dashboard.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -140,15 +164,25 @@ class TomasFeiertag:
 </p>
 <a href="https://github.com/TomasFeiertag/Spotify-Visual-Analytics">→ View repo</a>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <h3>🗺️ Google & Yelp Analytics</h3>
-<p>Big data analysis of Google Maps and Yelp reviews. NLP sentiment analysis, business intelligence and geospatial visualization.</p>
+<p>Big data analysis of Google Maps & Yelp reviews. NLP sentiment analysis + geospatial business intelligence.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
 </p>
 <a href="https://github.com/TomasFeiertag/Google-Yelps">→ View repo</a>
+</td>
+<td width="33%" valign="top">
+<h3>🎬 Movie Recommendation API</h3>
+<p>End-to-end ML recommendation system using cosine similarity on ratings matrix, deployed as a consumable REST API.</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+<a href="https://github.com/TomasFeiertag">→ View repo</a>
 </td>
 </tr>
 </table>
