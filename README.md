@@ -1,8 +1,11 @@
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Tomas%20Feiertag&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20NLP%20%26%20LLMs%20in%20Production&descAlignY=60&descSize=20&descColor=a0c4ff" />
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Tomas+Feiertag!+👋;Data+Scientist+%7C+NLP+%26+LLMs;300K+msgs%2Fweek+in+production+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=3500&pause=800&lines=Building+AI+that+runs+at+scale+⚡;+300K+messages%2Fweek+in+production+🚀;NLP+%7C+LLMs+%7C+Prompt+Engineering+🧠;Turning+messy+data+into+decisions+📊;Open+to+NLP+%26+AI%2FML+Engineering+roles+🌍" />
 </h1>
 
-<h3 align="center">Data Scientist · NLP & LLMs in production @ Movistar (Telefónica) · Python · PySpark · Databricks · Hugging Face</h3>
+<h3 align="center">Data Scientist · NLP & LLMs @ Movistar (Telefónica) · Python · PySpark · Databricks · Hugging Face</h3>
 
 <br/>
 
@@ -29,9 +32,11 @@
 <a href="mailto:tomasfeiertag@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=TomasFeiertag&style=for-the-badge&color=0e75b6" alt="profile views" />
 </div>
 
-<hr/>
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
 <h2 align="center">🚀 What I Do</h2>
 
@@ -47,34 +52,30 @@
 
 </div>
 
-<hr/>
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
 
-**Languages & Data**  
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode,docker,fastapi,linux" />
 
-**ML / AI**  
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-**Big Data & Cloud**  
 <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-**Visualization & Tools**  
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 
 </div>
 
-<hr/>
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
 <h2 align="center">📌 Featured Projects</h2>
 
@@ -105,7 +106,8 @@
 </table>
 </div>
 
-<hr/>
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
 <div align="center">
 <h2>🐍 My Contributions 🐍</h2>
@@ -118,15 +120,5 @@
 <br/><br/>
 </div>
 
-<hr/>
-
-<br/>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=TomasFeiertag&style=for-the-badge&color=0e75b6" alt="profile views" />
-</div>
-<br/>
-<hr/>
-
-<div align="center">
-<i>Open to NLP Engineering · AI/ML Engineering · Data Science roles</i>
-</div>
+<!-- FOOTER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=120&section=footer&text=Let's%20build%20something%20together&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
