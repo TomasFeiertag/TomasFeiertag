@@ -1,53 +1,97 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tomas+Feiertag!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi,+I'm+Tomas+Feiertag!+👋;Data+Scientist+%7C+NLP+%26+LLMs;300K+msgs%2Fweek+in+production+⚡" />
 </h1>
 
-<h3 align="center"> A passionate data enthusiast from Argentina </h3>
+<h3 align="center">Data Scientist · NLP & LLMs in production @ Movistar (Telefónica) · Python · PySpark · Databricks · Hugging Face</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently learning and building projects to deepen my expertise in data analysis, ETL, and data engineering.
- 
- 🌱 I’m currently learning **Docker, Airflow**
 
-💬 Ask me about **Python, SQL, PowerBI**
+🏢 **Currently:** Data Scientist at **Movistar (Telefónica Hispam)** — building AI systems that process **+300K messages/week** in production  
+🧠 **Specialties:** NLP · LLMs · Prompt Engineering · Big Data Pipelines · ETL at scale  
+🔭 **Building:** hybrid NLP architectures combining rule-based classification (Regex/JSON) with LLMs for intent detection  
+🌱 **Learning:** Advanced RAG architectures · LangChain agents · MLflow  
+💬 **Ask me about:** Python · PySpark · Azure Databricks · SQL · Hugging Face · Power BI  
+🌐 **English:** C1 certified (EF SET)
 
-⚡ Fun fact In Prison Break, the prison's design was inspired by real-life architectural blueprints.
-
- </div>
- 
-<div align="center"> 
-  <p>📩 Email: tomasfeiertag@gmail.com</p>
-  <a href="https://linkedin.com/in/tomas-feiertag/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://tomas-feiertag.mobirisesite.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+
+<div align="center">
+<a href="https://linkedin.com/in/tfeiertag/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://tomas-feiertag.mobirisesite.com/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
+<a href="mailto:tomasfeiertag@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
+
+<hr/>
+
+<h2 align="center">🚀 What I Do</h2>
+
+<div align="center">
+
+| Area | Details |
+|---|---|
+| **NLP in Production** | Intent classification pipeline processing +300K msgs/week @ Movistar |
+| **LLM Engineering** | Prompt tuning, hybrid architectures (rules + LLMs), RAG |
+| **Big Data** | ETL pipelines with PySpark on Azure Databricks |
+| **ML / Anomaly Detection** | Cybersecurity models for network traffic analysis @ RAN Security |
+| **Data Visualization** | Interactive Power BI dashboards for business intelligence |
+
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-        <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" /><br>
+
+**Languages & Data**  
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql" />
+
+**ML / AI**  
+<img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+**Big Data & Cloud**  
+<img src="https://img.shields.io/badge/Azure Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+**Visualization & Tools**  
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 
 </div>
 
-<br/>
+<hr/>
+
+<h2 align="center">📌 Featured Projects</h2>
+
+<div align="center">
+
+[![Spotify Visual Analytics](https://github-readme-stats.vercel.app/api/pin/?username=TomasFeiertag&repo=Spotify-Visual-Analytics&theme=react&border_radius=10)](https://github.com/TomasFeiertag/Spotify-Visual-Analytics)
+[![Google Yelp Analysis](https://github-readme-stats.vercel.app/api/pin/?username=TomasFeiertag&repo=Google-Yelps&theme=react&border_radius=10)](https://github.com/TomasFeiertag/Google-Yelps)
+
+</div>
+
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+<h2>🐍 My Contributions 🐍</h2>
+<br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.svg" />
+<br/><br/>
 </div>
 
 <hr/>
@@ -55,13 +99,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TomasFeiertag&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TomasFeiertag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFeiertag&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TomasFeiertag&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=TomasFeiertag&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
+<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFeiertag&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
 <br/><br/>
-
 <hr/>
 
+<div align="center">
+<i>Open to NLP Engineering · AI/ML Engineering · Data Science roles</i>
+</div>
