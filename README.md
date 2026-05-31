@@ -79,12 +79,30 @@
 <h2 align="center">📌 Featured Projects</h2>
 
 <div align="center">
-<a href="https://github.com/TomasFeiertag/Spotify-Visual-Analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomasFeiertag&repo=Spotify-Visual-Analytics&theme=dark&border_radius=10" />
-</a>
-<a href="https://github.com/TomasFeiertag/Google-Yelps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomasFeiertag&repo=Google-Yelps&theme=dark&border_radius=10" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🎵 Spotify Visual Analytics</h3>
+<p>End-to-end data pipeline and interactive dashboard analyzing Spotify listening trends. ETL, data wrangling, and Power BI visualization.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+<a href="https://github.com/TomasFeiertag/Spotify-Visual-Analytics">→ View repo</a>
+</td>
+<td width="50%" valign="top">
+<h3>🗺️ Google & Yelp Analytics</h3>
+<p>Big data analysis of Google Maps and Yelp reviews. NLP sentiment analysis, business intelligence and geospatial visualization.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
+</p>
+<a href="https://github.com/TomasFeiertag/Google-Yelps">→ View repo</a>
+</td>
+</tr>
+</table>
 </div>
 
 <hr/>
