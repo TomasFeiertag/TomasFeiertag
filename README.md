@@ -95,7 +95,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.gif" />
 </picture>
 <br/><br/>
 </div>
@@ -105,10 +105,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=TomasFeiertag&theme=dark&border_radius=10" alt="streak stats"/>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=TomasFeiertag&show_icons=true&theme=dark&rank_icon=github&border_radius=10&include_all_commits=true" alt="readme stats" />
+<img width=390 src="https://streak-stats.demolab.com?user=TomasFeiertag&theme=dark&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=TomasFeiertag&show_icons=true&theme=dark&rank_icon=github&border_radius=10&include_all_commits=true&cache_seconds=1800" alt="readme stats" />
 <br/>
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFeiertag&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="top langs" />
+<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFeiertag&langs_count=8&layout=compact&theme=dark&border_radius=10&cache_seconds=1800" alt="top langs" />
 </div>
 
 <br/><br/>
