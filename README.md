@@ -38,6 +38,54 @@
 <!-- WAVE SEPARATOR -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
+<br/>
+
+<div align="center">
+
+```python
+class TomasFeiertag:
+    location     = "Argentina 🇦🇷"
+    role         = "Data Scientist @ Movistar (Telefónica)"
+    focus        = ["NLP", "LLMs", "Big Data", "Prompt Engineering"]
+    stack        = ["Python", "PySpark", "Databricks", "Hugging Face"]
+    in_prod      = "+300K messages/week processed by my AI pipelines"
+    learning     = ["Advanced RAG", "LangChain Agents", "MLflow"]
+    open_to_work = True  # NLP Engineering · AI/ML Engineering · Data Science
+```
+
+</div>
+
+<br/>
+
+<!-- METRICS -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
+<h2>+300K</h2>
+<sub>messages/week in production</sub>
+</td>
+<td align="center" width="200">
+<h2>2+</h2>
+<sub>years building AI in prod</sub>
+</td>
+<td align="center" width="200">
+<h2>5+</h2>
+<sub>end-to-end data projects</sub>
+</td>
+<td align="center" width="200">
+<h2>C1</h2>
+<sub>English certified (EF SET)</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
+
 <h2 align="center">🚀 What I Do</h2>
 
 <div align="center">
