@@ -102,17 +102,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TomasFeiertag&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
-</div>
 <br/>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TomasFeiertag&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+<img src="https://komarev.com/ghpvc/?username=TomasFeiertag&style=for-the-badge&color=0e75b6" alt="profile views" />
 </div>
-
-<br/><br/>
+<br/>
 <hr/>
 
 <div align="center">
