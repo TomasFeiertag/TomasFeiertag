@@ -104,11 +104,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-<img width=390 src="https://streak-stats.demolab.com?user=TomasFeiertag&theme=dark&border_radius=10" alt="streak stats"/>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=TomasFeiertag&show_icons=true&theme=dark&rank_icon=github&border_radius=10&include_all_commits=true&cache_seconds=1800" alt="readme stats" />
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TomasFeiertag&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
+</div>
 <br/>
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFeiertag&langs_count=8&layout=compact&theme=dark&border_radius=10&cache_seconds=1800" alt="top langs" />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TomasFeiertag&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 <br/><br/>
