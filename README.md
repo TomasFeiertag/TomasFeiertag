@@ -26,8 +26,8 @@
 <a href="https://linkedin.com/in/tfeiertag/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://tomas-feiertag.mobirisesite.com/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+<a href="https://tomasfeiertag.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 <a href="mailto:tomasfeiertag@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
