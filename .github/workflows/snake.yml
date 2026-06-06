@@ -17,14 +17,15 @@ jobs:
     
     steps:
       - name: generate-snake-game-from-github-contribution-grid
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          # Ponemos tu usuario directo para que no haya fallas de contexto
+          github_user_name: TomasFeiertag
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # AGREGAMOS ESTO para que pueda leer tus commits privados:
+          # Usamos tu token con acceso a repos privados
           GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
           
       - name: push github-contribution-grid-snake.svg to the output branch
@@ -33,5 +34,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          # Este se queda igual porque solo sirve para escribir el resultado en tu repo público
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
