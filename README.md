@@ -188,6 +188,16 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 </table>
 </div>
 
+
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
+
+<div align="center">
+<h2>📊 GitHub Stats</h2>
+<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TomasFeiertag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFeiertag&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 <!-- WAVE SEPARATOR -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
