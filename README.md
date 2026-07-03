@@ -222,5 +222,28 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <br/><br/>
 </div>
 
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
+
+<div align="center">
+<h2>🧊 3D Contribution Calendar 🧊</h2>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-night-green-animate.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-green-animate.svg" />
+  <img alt="3d contribution calendar" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-green-animate.svg" />
+</picture>
+<br/><br/>
+</div>
+
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
+
+<div align="center">
+<h2>🎓 Certifications</h2>
+<br>
+<img src="https://img.shields.io/badge/EF%20SET-C1%20English%20Certificate-0e75b6?style=for-the-badge&logo=readdotcv&logoColor=white" />
+</div>
+
 <!-- FOOTER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=120&section=footer&text=Let's%20build%20something%20together&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
