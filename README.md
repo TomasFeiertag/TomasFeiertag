@@ -197,6 +197,16 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <br>
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=TomasFeiertag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasFeiertag&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+<img height="165" src="https://streak-stats.demolab.com/?user=TomasFeiertag&theme=tokyonight&hide_border=true" />
+</div>
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
+
+<div align="center">
+<h2>🏆 Trophies</h2>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=TomasFeiertag&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 <!-- WAVE SEPARATOR -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
