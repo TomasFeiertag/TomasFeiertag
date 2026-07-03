@@ -9,6 +9,13 @@
 
 <br/>
 
+<!-- TERMINAL IDENTITY CARD (preview) -->
+<div align="center">
+<img src="https://terminal-identity-opal.vercel.app/api?name=Tomas+Feiertag&role=Data+Scientist+%7C+NLP+%26+LLMs&theme=obsidian%2Fmatcha&avatar=TF&pattern=grid&width=980&username=TomasFeiertag&command=whoami" width="100%" alt="Terminal identity card" />
+</div>
+
+<br/>
+
 <div align="center">
 
 🏢 **Currently:** Data Scientist at **Movistar (Telefónica Hispam)** — building AI systems that process **+300K messages/week** in production  
