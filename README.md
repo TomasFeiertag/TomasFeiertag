@@ -195,6 +195,9 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <div align="center">
 <h2>📊 GitHub Stats</h2>
 <br>
+<img height="165" src="https://github-readme-stats-fagjpj125-tomasfeiertags-projects.vercel.app/api?username=TomasFeiertag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-fagjpj125-tomasfeiertags-projects.vercel.app/api/top-langs/?username=TomasFeiertag&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
 <img height="165" src="https://streak-stats.demolab.com/?user=TomasFeiertag&theme=tokyonight&hide_border=true" />
 </div>
 <!-- WAVE SEPARATOR -->
