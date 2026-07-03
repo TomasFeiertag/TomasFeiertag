@@ -21,10 +21,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
           USERNAME: TomasFeiertag
-      - name: push to output branch
+      - name: push to output-3d-contrib branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: output-3d-contrib
           build_dir: profile-3d-contrib
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

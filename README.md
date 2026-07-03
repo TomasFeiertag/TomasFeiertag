@@ -221,9 +221,9 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <h2>🧊 3D Contribution Calendar 🧊</h2>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-green-animate.svg" />
-  <img alt="3d contribution calendar" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output-3d-contrib/profile-green-animate.svg" />
+  <img alt="3d contribution calendar" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output-3d-contrib/profile-green-animate.svg" />
 </picture>
 <br/><br/>
 </div>
