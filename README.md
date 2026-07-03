@@ -146,9 +146,9 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <img height="165" src="https://streak-stats.demolab.com/?user=TomasFeiertag&theme=tokyonight&hide_border=true" />
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output-3d-contrib/profile-green-animate.svg" />
-  <img alt="3d contribution calendar" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output-3d-contrib/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.gif" />
 </picture>
 </div>
 
