@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Tomas%20Feiertag&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20NLP%20%26%20LLMs%20in%20Production&descAlignY=60&descSize=20&descColor=a0c4ff&v=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Tomas%20Feiertag&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20NLP%20%26amp;%20LLMs%20in%20Production&descAlignY=60&descSize=20&descColor=a0c4ff&v=3" />
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=3500&pause=800&lines=Building+AI+that+runs+at+scale+⚡;+300K+messages%2Fweek+in+production+🚀;NLP+%7C+LLMs+%7C+Prompt+Engineering+🧠;Turning+messy+data+into+decisions+📊;Open+to+NLP+%26+AI%2FML+Engineering+roles+🌍" />
