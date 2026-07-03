@@ -1,7 +1,11 @@
-<!-- TERMINAL IDENTITY CARD (header) -->
-<div align="center">
-<img src="https://terminal-identity-opal.vercel.app/api?name=Tomas+Feiertag&role=Data+Scientist+%7C+NLP+%26+LLMs&theme=obsidian%2Fmatcha&avatar=TF&pattern=grid&width=980&username=TomasFeiertag&command=whoami" width="100%" alt="Terminal identity card" />
-</div>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0e75b6&height=200&section=header&text=Tomas%20Feiertag&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20NLP%20%26%20LLMs%20in%20Production&descAlignY=60&descSize=20&descColor=a0c4ff" />
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=3500&pause=800&lines=Building+AI+that+runs+at+scale+⚡;+300K+messages%2Fweek+in+production+🚀;NLP+%7C+LLMs+%7C+Prompt+Engineering+🧠;Turning+messy+data+into+decisions+📊;Open+to+NLP+%26+AI%2FML+Engineering+roles+🌍" />
+</h1>
+
+<h3 align="center">Data Scientist · NLP & LLMs @ Movistar (Telefónica) · Python · PySpark · Databricks · Hugging Face</h3>
 
 <br/>
 
