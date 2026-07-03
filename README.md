@@ -204,14 +204,6 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
 <div align="center">
-<h2>🏆 Trophies</h2>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=TomasFeiertag&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-<!-- WAVE SEPARATOR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
-
-<div align="center">
 <h2>🐍 My Contributions 🐍</h2>
 <br>
 <picture>
@@ -229,7 +221,7 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <h2>🧊 3D Contribution Calendar 🧊</h2>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-night-green-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-green-animate.svg" />
   <img alt="3d contribution calendar" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/profile-green-animate.svg" />
 </picture>
