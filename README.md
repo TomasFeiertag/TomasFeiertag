@@ -10,9 +10,8 @@
 <div align="center">
 
 🏢 **Currently:** Data Scientist at **Movistar (Telefónica Hispam)** — building AI systems that process **+300K messages/week** in production  
-🔭 **Building:** hybrid NLP architectures combining rule-based classification (Regex/JSON) with LLMs for intent detection  
-🌱 **Learning:** Advanced RAG architectures · LangChain agents · MLflow  
-💬 **Ask me about:** Python · PySpark · Azure Databricks · SQL · Hugging Face · Power BI  
+🔭 **Building:** hybrid NLP architectures combining rule-based classification (Regex/JSON) with LLMs, and conversational agent design for automated customer support  
+💬 **Ask me about:** Python · PySpark · Azure Databricks · SQL · Azure OpenAI · Prompt Engineering · Power BI  
 🌐 **English:** C1 certified (EF SET)
 
 </div>
@@ -97,8 +96,8 @@
 <td width="120" align="center"><b>Mar 2025<br/>Present</b></td>
 <td>
 <b>🟦 Data Scientist (NLP) — Movistar · Telefónica Hispam</b><br/>
-Hybrid NLP architecture (Regex/JSON + LLMs) processing <b>+300K msgs/week</b> in production. ETL pipelines in PySpark/Databricks. Prompt Engineering & LLM optimization. Power BI dashboards for business KPIs.<br/>
-<sub>Python · PySpark · Azure Databricks · LLMs · Prompt Engineering · Power BI</sub>
+Hybrid NLP architecture (Regex/JSON + LLMs) processing <b>+300K msgs/week</b> in production. Design and iteration of conversational AI agent behavior via Prompt Engineering on Azure OpenAI. ETL pipelines in PySpark/Databricks.<br/>
+<sub>Python · PySpark · Azure Databricks · Azure OpenAI · Prompt Engineering · GitLab CI</sub>
 </td>
 </tr>
 <tr>
@@ -149,13 +148,12 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <br/>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode,docker,fastapi,linux" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,gitlab,vscode,fastapi,linux" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
