@@ -118,6 +118,21 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <!-- WAVE SEPARATOR -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
+<h2 align="center">🎓 Education & Certifications</h2>
+
+<div align="center">
+
+**Licenciatura en Ciencias de Datos** — Universidad Siglo 21 · *In progress (since Jan 2025)*
+
+<img src="https://img.shields.io/badge/Databricks-Academy%20Accreditation%3A%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/EF%20SET-C1%20Advanced%20English-0e75b6?style=for-the-badge" />
+
+</div>
+
+<!-- WAVE SEPARATOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
+
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <div align="center">
