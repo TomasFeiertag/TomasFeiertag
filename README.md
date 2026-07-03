@@ -40,7 +40,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3>🎵 Spotify Visual Analytics</h3>
 <p>End-to-end pipeline analyzing Spotify listening trends. ETL, data wrangling, and interactive Power BI dashboard.</p>
 <p>
@@ -50,7 +50,7 @@
 </p>
 <a href="https://github.com/TomasFeiertag/Spotify-Visual-Analytics">→ View repo</a>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3>🗺️ Google & Yelp Analytics</h3>
 <p>Big data analysis of Google Maps & Yelp reviews. NLP sentiment analysis + geospatial business intelligence.</p>
 <p>
@@ -60,7 +60,9 @@
 </p>
 <a href="https://github.com/TomasFeiertag/Google-Yelps">→ View repo</a>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <h3>🎬 Movie Recommendation API</h3>
 <p>End-to-end ML recommendation system using cosine similarity on ratings matrix, deployed as a consumable REST API.</p>
 <p>
@@ -69,6 +71,16 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 <a href="https://github.com/TomasFeiertag/Proyecto-MLOps-1">→ View repo</a>
+</td>
+<td width="50%" valign="top">
+<h3>📶 Argentina Internet Access (ENACOM)</h3>
+<p>EDA + interactive Power BI dashboard on internet access trends in Argentina over the last decade — digital divide analysis.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+<a href="https://github.com/TomasFeiertag/Proyecto-Data-Analytics">→ View repo</a>
 </td>
 </tr>
 </table>
