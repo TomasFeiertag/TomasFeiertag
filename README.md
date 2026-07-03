@@ -5,14 +5,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=700&height=70&duration=3500&pause=800&lines=Building+AI+that+runs+at+scale+⚡;+300K+messages%2Fweek+in+production+🚀;NLP+%7C+LLMs+%7C+Prompt+Engineering+🧠;Turning+messy+data+into+decisions+📊;Open+to+NLP+%26+AI%2FML+Engineering+roles+🌍" />
 </h1>
 
-<h3 align="center">Data Scientist · NLP & LLMs @ Movistar (Telefónica) · Python · PySpark · Databricks · Hugging Face</h3>
-
 <br/>
 
 <div align="center">
 
 🏢 **Currently:** Data Scientist at **Movistar (Telefónica Hispam)** — building AI systems that process **+300K messages/week** in production  
-🧠 **Specialties:** NLP · LLMs · Prompt Engineering · Big Data Pipelines · ETL at scale  
 🔭 **Building:** hybrid NLP architectures combining rule-based classification (Regex/JSON) with LLMs for intent detection  
 🌱 **Learning:** Advanced RAG architectures · LangChain agents · MLflow  
 💬 **Ask me about:** Python · PySpark · Azure Databricks · SQL · Hugging Face · Power BI  
@@ -38,50 +35,44 @@
 <!-- WAVE SEPARATOR -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
-<br/>
+<h2 align="center">📌 Featured Projects</h2>
 
-<div align="center">
-
-```python
-class TomasFeiertag:
-    location     = "Argentina 🇦🇷"
-    role         = "Data Scientist @ Movistar (Telefónica)"
-    focus        = ["NLP", "LLMs", "Big Data", "Prompt Engineering"]
-    stack        = ["Python", "PySpark", "Databricks", "Hugging Face"]
-    in_prod      = "+300K messages/week processed by my AI pipelines"
-    learning     = ["Advanced RAG", "LangChain Agents", "MLflow"]
-    open_to_work = True  # NLP Engineering · AI/ML Engineering · Data Science
-```
-
-</div>
-
-<br/>
-
-<!-- METRICS -->
 <div align="center">
 <table>
 <tr>
-<td align="center" width="200">
-<h2>+300K</h2>
-<sub>messages/week in production</sub>
+<td width="33%" valign="top">
+<h3>🎵 Spotify Visual Analytics</h3>
+<p>End-to-end pipeline analyzing Spotify listening trends. ETL, data wrangling, and interactive Power BI dashboard.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+<a href="https://github.com/TomasFeiertag/Spotify-Visual-Analytics">→ View repo</a>
 </td>
-<td align="center" width="200">
-<h2>2+</h2>
-<sub>years building AI in prod</sub>
+<td width="33%" valign="top">
+<h3>🗺️ Google & Yelp Analytics</h3>
+<p>Big data analysis of Google Maps & Yelp reviews. NLP sentiment analysis + geospatial business intelligence.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
+</p>
+<a href="https://github.com/TomasFeiertag/Google-Yelps">→ View repo</a>
 </td>
-<td align="center" width="200">
-<h2>5+</h2>
-<sub>end-to-end data projects</sub>
-</td>
-<td align="center" width="200">
-<h2>C1</h2>
-<sub>English certified (EF SET)</sub>
+<td width="33%" valign="top">
+<h3>🎬 Movie Recommendation API</h3>
+<p>End-to-end ML recommendation system using cosine similarity on ratings matrix, deployed as a consumable REST API.</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+<a href="https://github.com/TomasFeiertag/Proyecto-MLOps-1">→ View repo</a>
 </td>
 </tr>
 </table>
 </div>
-
-<br/>
 
 <!-- WAVE SEPARATOR -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
@@ -149,92 +140,16 @@ Corporate program: organizational culture, agility, DEI, and digital employabili
 <!-- WAVE SEPARATOR -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
 
-<h2 align="center">📌 Featured Projects</h2>
-
 <div align="center">
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>🎵 Spotify Visual Analytics</h3>
-<p>End-to-end pipeline analyzing Spotify listening trends. ETL, data wrangling, and interactive Power BI dashboard.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
-<a href="https://github.com/TomasFeiertag/Spotify-Visual-Analytics">→ View repo</a>
-</td>
-<td width="33%" valign="top">
-<h3>🗺️ Google & Yelp Analytics</h3>
-<p>Big data analysis of Google Maps & Yelp reviews. NLP sentiment analysis + geospatial business intelligence.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=huggingface&logoColor=white"/>
-</p>
-<a href="https://github.com/TomasFeiertag/Google-Yelps">→ View repo</a>
-</td>
-<td width="33%" valign="top">
-<h3>🎬 Movie Recommendation API</h3>
-<p>End-to-end ML recommendation system using cosine similarity on ratings matrix, deployed as a consumable REST API.</p>
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-<a href="https://github.com/TomasFeiertag/Proyecto-MLOps-1">→ View repo</a>
-</td>
-</tr>
-</table>
-</div>
-
-
-<!-- WAVE SEPARATOR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
-
-<div align="center">
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Activity</h2>
 <br>
-<img height="165" src="https://github-readme-stats-fagjpj125-tomasfeiertags-projects.vercel.app/api?username=TomasFeiertag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-fagjpj125-tomasfeiertags-projects.vercel.app/api/top-langs/?username=TomasFeiertag&layout=compact&theme=tokyonight&hide_border=true" />
-<br/>
 <img height="165" src="https://streak-stats.demolab.com/?user=TomasFeiertag&theme=tokyonight&hide_border=true" />
-</div>
-<!-- WAVE SEPARATOR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
-
-<div align="center">
-<h2>🐍 My Contributions 🐍</h2>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output/github-contribution-grid-snake.gif" />
-</picture>
 <br/><br/>
-</div>
-
-<!-- WAVE SEPARATOR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
-
-<div align="center">
-<h2>🧊 3D Contribution Calendar 🧊</h2>
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output-3d-contrib/profile-green-animate.svg" />
   <img alt="3d contribution calendar" src="https://raw.githubusercontent.com/TomasFeiertag/TomasFeiertag/output-3d-contrib/profile-green-animate.svg" />
 </picture>
-<br/><br/>
-</div>
-
-<!-- WAVE SEPARATOR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=3" />
-
-<div align="center">
-<h2>🎓 Certifications</h2>
-<br>
-<img src="https://img.shields.io/badge/EF%20SET-C1%20English%20Certificate-0e75b6?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </div>
 
 <!-- FOOTER BANNER -->
